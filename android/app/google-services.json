@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "74409749630",
+    "project_id": "exelynt",
+    "storage_bucket": "exelynt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74409749630:android:d151447e1f052331f1bc2f",
+        "android_client_info": {
+          "package_name": "com.tushar.employee_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74409749630-qmht38k4bjq3hbhs57bnodojcfi5kjsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tushar.employee_management",
+            "certificate_hash": "cb0f1598940717b119f405b412b710da04244770"
+          }
+        },
+        {
+          "client_id": "74409749630-ica7n9bq3oer92806dvqfjcu3210664s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMW7Kr0d4EdnxmAVj4QEmwsXToD46GeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74409749630-ica7n9bq3oer92806dvqfjcu3210664s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74409749630-148p9gjiohfa8n0q62gpldb2279atg03.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tushar.employeeManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
